@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
 
     private DataAdapter adapter;
-
+     public String s="null";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
